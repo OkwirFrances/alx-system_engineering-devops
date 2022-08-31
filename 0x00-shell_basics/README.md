@@ -5,3 +5,5 @@ pwd prints the path to the current working dir
 2. cd ~ changes back to home dir
 
 3. ls -la display content in long format 
+
+4. ls -la display content including hidden file and dir
