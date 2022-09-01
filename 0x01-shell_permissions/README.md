@@ -15,3 +15,5 @@ su -l Change current user to new user
  chmod 751 makes hello file executable
 
  chmod 751 makes hello file executable
+
+ chmod 751 makes hello file executable
