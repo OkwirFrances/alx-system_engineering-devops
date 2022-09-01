@@ -9,3 +9,5 @@ pwd prints the path to the current working dir
 4. ls -la display content including hidden file and dir
 
 5. ls -n display content including hidden file and dir
+
+6. mkdir /tmp/my_first_directory creates my_first_directory in /tmp
