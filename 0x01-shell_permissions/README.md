@@ -7,3 +7,5 @@ su -l Change current user to new user
  chown change owner
 
  Touch create file
+
+ chmod u+x makes hello file executable
