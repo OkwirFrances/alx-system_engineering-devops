@@ -9,3 +9,5 @@ su -l Change current user to new user
  Touch create file
 
  chmod u+x makes hello file executable
+
+ chmod 554 makes hello file executable
