@@ -5,3 +5,5 @@
 4-lastlines display the last 10 lines in /etc/passwd
 5-firstlines display the first 1o lines in /etc/passwd
 6-third_line diplay the third line in file iacta
+7-file creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing best school
+
