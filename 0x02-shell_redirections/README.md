@@ -8,3 +8,5 @@
 7-file creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing best school
 8-cwd_state outputs the ls -la and prints in ls_cwd_content file
 9-duplicate_last_line duplicates the last line of iacta file
+10-no_more_js deletes all file with .js extension and sudirectories
+
